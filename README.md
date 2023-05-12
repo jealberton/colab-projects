@@ -1,5 +1,5 @@
 # colab-projects
-Some projects and analyzes made in  Google Colab environment
+Some projects and analysis made in  Google Colab environment
 
 capacity manager project - context: Capacity refers to the amount of orders (or items) that a groceries store can deliver in a given period of time, considering factors such as its operational efficiency, late orders, etc. The intelligent manager uses artificial neural networks to suggest the ideal capacity considering historical and real-time indicators for the store
 
